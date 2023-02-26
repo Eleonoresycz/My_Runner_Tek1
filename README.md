@@ -8,7 +8,13 @@ I think C++ with SFML is better than C with SFML. I have understood why video ga
 
 To execute the project you have to be in root floder in your shell.
 First command: make
+
 ![image](https://user-images.githubusercontent.com/72020417/221430301-7d5fd435-c5c4-4368-bd7e-75bcf25b8f51.png)
 
 Second command: ./my_runner map.txt
+
 ![image](https://user-images.githubusercontent.com/72020417/221430336-34a87cc1-6be0-4f6e-83b7-01ae8dd64414.png)
+
+# **GAMEPLAY**
++ Press space to jump and realse it to be on the floor.
++ Press C to destroy wall.
